@@ -8614,6 +8614,11 @@
     "latitude": 51.9798767674,
     "longitude": 0.2151664222
   },
+  "NWH": {
+    "station_name": "Newsham",
+    "latitude": 55.102778,
+    "longitude": -1.523889
+  },
   "NWI": {
     "station_name": "Northwich",
     "latitude": 53.2614653974,
