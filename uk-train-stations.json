@@ -552,6 +552,12 @@
     "longitude": -2.1087526816
   },
   {
+    "3alpha": "ASD",
+    "station_name": "Ashley Down",
+    "latitude": 51.4788,
+    "longitude": -2.5767
+  },
+  {
     "3alpha": "ASF",
     "station_name": "Ashfield",
     "latitude": 55.8889152278,
@@ -574,6 +580,12 @@
     "station_name": "Askam",
     "latitude": 54.1889365481,
     "longitude": -3.2045108901
+  },
+  {
+    "3alpha": "ASL",
+    "station_name": "Ashington",
+    "latitude": 55.1820,
+    "longitude": -1.5731
   },
   {
     "3alpha": "ASN",
@@ -2674,6 +2686,12 @@
     "station_name": "Canterbury West",
     "latitude": 51.284271981,
     "longitude": 1.0753330452
+  },
+  {
+    "3alpha": "CBX",
+    "station_name": "Cameron Bridge",
+    "latitude": 56.189693,
+    "longitude": -3.046855
   },
   {
     "3alpha": "CBY",
@@ -8334,6 +8352,12 @@
     "longitude": -2.6871416367
   },
   {
+    "3alpha": "LEV",
+    "station_name": "Leven",
+    "latitude": 56.1923,
+    "longitude": -3.002
+  },
+  {
     "3alpha": "LFD",
     "station_name": "Lingfield",
     "latitude": 51.1764479512,
@@ -11022,6 +11046,12 @@
     "longitude": -2.7081248286
   },
   {
+    "3alpha": "PRI",
+    "station_name": "Portway Park and Ride",
+    "latitude": 51.488611,
+    "longitude": -2.688056
+  },
+  {
     "3alpha": "PRH",
     "station_name": "Penrhyndeudraeth",
     "latitude": 52.9288395107,
@@ -11554,6 +11584,12 @@
     "station_name": "Rugeley Trent Valley",
     "latitude": 52.7696708266,
     "longitude": -1.9298468285
+  },
+  {
+    "3alpha": "RGP",
+    "station_name": "Reading Green Park",
+    "latitude": 51.426667,
+    "longitude": -1.001389
   },
   {
     "3alpha": "RGT",
@@ -13816,6 +13852,12 @@
     "station_name": "Thornford",
     "latitude": 50.9105671531,
     "longitude": -2.5789881669
+  },
+  {
+    "3alpha": "THP",
+    "station_name": "Thanet Parkway",
+    "latitude": 51.330843,
+    "longitude": 1.361777
   },
   {
     "3alpha": "THS",
